@@ -1,0 +1,9 @@
+#main {
+    display: flex;
+}
+
+#card {
+    position: sticky;
+    top: 80px;
+    align-self: flex-start;
+}
