@@ -1,0 +1,46 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Alex Rivera",
+      "comment": "The RTX 4070 runs my games smoothly at 1440p. Fast delivery too!",
+      "rating": 4.8,
+      "date": "2026-05-08"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Chen",
+      "comment": "Noctua NH-D15 is incredibly quiet and keeps my CPU cool. Worth every penny.",
+      "rating": 5,
+      "date": "2026-05-06"
+    },
+    {
+      "id": 3,
+      "name": "Marcus Okonkwo",
+      "comment": "Great selection of components and competitive prices. Very satisfied.",
+      "rating": 4.5,
+      "date": "2026-05-04"
+    },
+    {
+      "id": 4,
+      "name": "Priya Sharma",
+      "comment": "Samsung SSD is blazing fast. Excellent product and service.",
+      "rating": 4.7,
+      "date": "2026-05-02"
+    },
+    {
+      "id": 5,
+      "name": "James Kim",
+      "comment": "Good quality RAM but delivery took a bit longer than expected.",
+      "rating": 3.8,
+      "date": "2026-04-30"
+    },
+    {
+      "id": 6,
+      "name": "Elena Rodriguez",
+      "comment": "Fractal Design case has amazing airflow and build quality. Love it!",
+      "rating": 4.9,
+      "date": "2026-04-28"
+    }
+  ]
+}
